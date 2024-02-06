@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @singhpriti
-- 👀 I’m interested in Web-development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on real world projects
+🔭 I’m currently working as a freelancer.
+
+🌱 I’m currently learning Swift, SwiftUI, Core Data, MVVM, Combine, Realm
+
+👯 I’m looking to collaborate with iOS Devs
+
+🤝 I’m looking for help with iOS Projects
 
 <!---
 singhpriti/singhpriti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
